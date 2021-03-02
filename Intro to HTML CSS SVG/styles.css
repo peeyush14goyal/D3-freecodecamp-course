@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  overflow: hidden;
+}
+
+.lines {
+  stroke: black;
+  stroke-width: 5;
+}
+
+.lines path {
+  stroke: #25656d;
+  stroke-linejoin: round;
+  stroke-linecap: round;
+}
